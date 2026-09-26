@@ -1,0 +1,6 @@
+_extends: poppycock
+
+repository:
+  name: ha-truenas
+  description: TrueNAS integration for Home Assistant
+  private: false
